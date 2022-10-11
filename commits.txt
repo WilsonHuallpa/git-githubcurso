@@ -1,0 +1,85 @@
+commit d598176efe4d907af617c4c020a9e2637923c598
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:57:58 2022 -0300
+
+    agregando estaciones del año con fecha
+
+commit 9b9f04c58510e984529a34f4846bbcc83d9cb29e
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:57:58 2022 -0300
+
+    Agregando estaciones del años
+
+commit e9a23be554e9ed16db703c8b4da509f4439a7c04
+Merge: 91e4af5 eae3819
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:52:53 2022 -0300
+
+    Resolviendo conflicto main html
+
+commit eae38199aa454a0da7bafd3e00944777235b1682
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:47:49 2022 -0300
+
+    Agregando index.js al index html
+
+commit 91e4af535cb9ed7b528be377d3a2f964e5f56590
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:45:43 2022 -0300
+
+    Agregando stles.css
+
+commit 09c03f14868bfbf5d05aa3d8dda10827dbc769b2
+Merge: 0770804 b87c37f
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:35:27 2022 -0300
+
+    Merge branch 'js'
+
+commit b87c37fe0622352d978f9a91852f1f6c25b67f6e
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:30:45 2022 -0300
+
+    creando index js
+
+commit 0770804f980a77f4ecb453bbc77c262fb87c445d
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:26:32 2022 -0300
+
+    Creando css
+
+commit 51aa8c74e0c32c6a2932d82e9d71065793aeb03a
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:24:31 2022 -0300
+
+    modificando
+
+commit 1c6fa783cfcace38f310c535fdd5f4467e6a9ebf
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 09:22:31 2022 -0300
+
+    Creando index html
+
+commit 877155ccf77ee686a341813f85cf130a966e5709
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Tue Oct 11 08:51:00 2022 -0300
+
+    Ignorando archivos .exe
+
+commit 03b416fc4a6149da0348ef7fe9d453bd9d5a553f
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Mon Oct 10 17:20:02 2022 -0300
+
+    Agregando mas contenido
+
+commit 189e0fbb0903c8dfe37fe43c2019eba85516de0b
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Mon Oct 10 17:01:26 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit 843629cfa51f735529534878e55f0f9570980747
+Author: Wilson Huallpa <wilsonhuallpapro@gmail.com>
+Date:   Mon Oct 10 16:58:31 2022 -0300
+
+    Primer commit

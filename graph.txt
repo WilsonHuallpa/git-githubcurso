@@ -1,0 +1,19 @@
+* d598176 agregando estaciones del año con fecha
+* 9b9f04c Agregando estaciones del años
+*   e9a23be Resolviendo conflicto main html
+|\  
+| * eae3819 Agregando index.js al index html
+* | 91e4af5 Agregando stles.css
+* |   09c03f1 Merge branch 'js'
+|\ \  
+| * | b87c37f creando index js
+* | | 0770804 Creando css
+| |/  
+|/|   
+* | 51aa8c7 modificando
+* | 1c6fa78 Creando index html
+|/  
+* 877155c Ignorando archivos .exe
+* 03b416f Agregando mas contenido
+* 189e0fb Agregando contenido inicial al README
+* 843629c Primer commit
